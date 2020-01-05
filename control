@@ -1,0 +1,9 @@
+Package: com.icraze.betternetplusplus
+Name: Betternet++
+Author: iCraze
+Description: Premium For Free
+Depends: mobilesubstrate
+Maintainer: iCraze
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.1
